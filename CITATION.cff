@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+message: "If you use this software by referencing my notebook, please cite it as below."
+authors:
+- family-names: "Sahoo"
+  given-names: "Shashank"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Custom Document Layout Segmentation Software"
+version: 1.0.4
+date-released: 2023-08-08
+url: "https://github.com/Shashank545/custom-document-layout-segmentation"
