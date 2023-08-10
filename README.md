@@ -74,7 +74,7 @@ Following metrics were used for evaluation purpose
 |recall_score(y_true, y_pred)	|Compute the recall|
 |f1_score(y_true, y_pred)	|Compute the F1 score, also known as balanced F-score or F-measure|
 
-#### How to use
+#### How to use seqeval
 
 ```code
 >>> from seqeval.metrics import accuracy_score
